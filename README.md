@@ -61,7 +61,7 @@ src/
 
 ## Observações
 
-- O projeto utiliza a API pública ViaCEP para buscar os dados dos endereços.
+- O projeto utiliza a API pública [ViaCEP](https://viacep.com.br/) para buscar os dados dos endereços.
 - Para produção, recomenda-se tratar limites de requisições e possíveis indisponibilidades da API.
 
 ## Licença
