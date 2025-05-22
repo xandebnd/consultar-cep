@@ -18,6 +18,7 @@ Aplicação web para consulta de endereços a partir do CEP, desenvolvida com Ne
 - [TailwindCSS](https://tailwindcss.com/)
 - [Zod](https://zod.dev/) para validação de dados
 - [React Hook Form](https://react-hook-form.com/) para gerenciamento de formulários
+- [Shadcn](https://ui.shadcn.com/) para componentes de design
 
 ## Como rodar o projeto
 
