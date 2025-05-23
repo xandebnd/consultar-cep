@@ -132,6 +132,22 @@ export default function Home() {
                 )}
               </span>
             </AddressItem>
+            <AddressItem>
+              DDD:{" "}
+              <span className="font-normal">
+                {address.ddd || (
+                  <span className="text-gray-400">Não informado</span>
+                )}
+              </span>
+            </AddressItem>
+            <AddressItem>
+              Região:{" "}
+              <span className="font-normal">
+                {address.regiao || (
+                  <span className="text-gray-400">Não informado</span>
+                )}
+              </span>
+            </AddressItem>
           </CardFooter>
         )}
       </Card>
