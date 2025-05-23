@@ -11,6 +11,7 @@ export const addressSchema = z.object({
 	gia: z.string().optional(),
 	ddd: z.string().optional(),
 	siafi: z.string().optional(),
+	regiao: z.string().optional(),
 	erro: z.boolean().optional(),
 });
 
